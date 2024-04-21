@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: repeat(10, 1fr);
+  gap: 2px;
+}
+
+.tile {
+  width: 20px;
+  height: 20px;
+}

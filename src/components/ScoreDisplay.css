@@ -1,0 +1,12 @@
+.score-card {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    font-size: 1.2em;
+    color: #333;
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+  }
+  
